@@ -13,15 +13,15 @@ backend
 
 http://localhost:8000
 
-#frontend
+# frontend
 se realizo con react 16
 se utilizo react hook
 axios
 el server del frontend esta http://localhost:3000
 
 
-#db.sql
+# db.sql
 adjunto la base de datos .sql con algunos ejemplo 
 
-#autor
+# autor
 Leonardo pernett - 
