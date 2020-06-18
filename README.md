@@ -3,13 +3,19 @@ se realizo con laravel
 
 la api es http://localhost:8000/api/productos
 
-para generar todos los archivos se ejecuta composer update para
+para generar todos los archivos se ejecuta 
+```bash
+composer update 
+```
 generar la carpeta vendor 
 
 .env se configura para la informacion de la base de datos
 
-al final con el comando php artisan serve para inicar el servidor del
-backend
+al final con el comando 
+```bash
+php artisan serve
+```
+para inicar el servidor del backend
 
 http://localhost:8000
 
