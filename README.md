@@ -1,33 +1,32 @@
 # backend
-se realizo con laravel 
-
-la api es http://localhost:8000/api/productos
-
-para generar todos los archivos se ejecuta 
+### se realizo con laravel 
+```bash
+http://localhost:8000/api/productos
+```
+### para generar todos los archivos se ejecuta 
 ```bash
 composer update 
 ```
-generar la carpeta vendor 
+### generar la carpeta vendor 
 
-.env se configura para la informacion de la base de datos
-
-al final con el comando 
+### .env se configura para la informacion de la base de datos al final con el comando 
 ```bash
 php artisan serve
 ```
-para inicar el servidor del backend
-
+### para inicar el servidor del backend
+```bash
 http://localhost:8000
-
+```
 # frontend
-se realizo con react 16
-se utilizo react hook
-axios
+### se realizo con react 16
+### se utilizo react hook
+### axios
+```bash
 el server del frontend esta http://localhost:3000
+```
 
-
-# db.sql
+### db.sql
 adjunto la base de datos .sql con algunos ejemplo 
 
-# autor
+##### autor
 Leonardo pernett - 
