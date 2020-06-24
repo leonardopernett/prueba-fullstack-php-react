@@ -18,9 +18,12 @@ php artisan serve
 http://localhost:8000
 ```
 # frontend
-### se realizo con react 16
-### se utilizo react hook
-### axios
+#### se realizo con react se utilizo react hook axios
+
+### se inicia el frontend
+```bash
+npm start
+```
 ```bash
 el server del frontend esta http://localhost:3000
 ```
